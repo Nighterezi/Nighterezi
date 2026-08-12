@@ -9,7 +9,7 @@
 
 ## **Tech I used**
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,php,laravel,ts,js,nodejs,mysql,postgres,redis,docker,git,github,linux,vscode,idea&perline=8&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,rust,ts,js,nodejs,mysql,postgres,redis,docker,git,github,linux,vscode,idea&perline=8&theme=dark" alt="Tech stack"/>
 
 <br>
 
